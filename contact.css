@@ -1,0 +1,38 @@
+body {
+      background-color: #f4f4f4;
+    }
+
+    .contact-section {
+      padding: 40px 20px;
+    }
+
+    .contact-info {
+      font-size: 14px;
+    }
+
+    .contact-icon {
+      font-size: 24px;
+      color: #444;
+    }
+
+    .social-icons a {
+      margin-right: 10px;
+      color: #000;
+    }
+
+    .map-container {
+      height: 300px;
+      width: 100%;
+      margin-top: 20px;
+    }
+
+    .form-control:focus {
+      box-shadow: none;
+      border-color: red;
+    }
+
+    .send-btn {
+      background-color: #d9534f;
+      color: white;
+    }
+  
